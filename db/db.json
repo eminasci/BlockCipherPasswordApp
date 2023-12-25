@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "name": "emin",
+      "email": "eminasci@hotmail.com",
+      "password": "e080402",
+      "auth": "superAdmin",
+      "id": 1,
+      "sifreler": [
+        {
+          "id": 1703509735584,
+          "service": "Halkbankası",
+          "username": "eeeeee",
+          "password": "e61455ede1a4f229a8428c4ba412cf8388b6c96dfbd1ed0caa43c0f01e2eeee7"
+        },
+        {
+          "id": 1703509889091,
+          "service": "Zİratt",
+          "username": "123132",
+          "password": "ef8af3bc85b97d9e5ed200e98d3dad14348d2c27ab1e3546248d43eab436da7e"
+        },
+        {
+          "id": 1703511923514,
+          "service": "14241",
+          "username": "14141",
+          "password": "92ac8a837e2ca36cac90513eb136cf7479d0b50da83b33d9f62a29ce06cb0ca1"
+        },
+        {
+          "id": 1703511936202,
+          "service": "Garanti Banaksı",
+          "username": "12414",
+          "password": "74234971cb59e5f93f2879ff45d21d6caad4534c295ec20e4a520a8823801bcd"
+        }
+      ]
+    },
+    {
+      "name": "emin3131",
+      "email": "eminasci31@hotmail.com",
+      "password": "e080402",
+      "auth": "superAdmin",
+      "id": 2,
+      "sifreler": [
+        {
+          "id": 1703348290887,
+          "service": "eeeeeeee",
+          "username": "asdadasdas",
+          "password": "e080402asdasda"
+        },
+        {
+          "id": 1703348344252,
+          "service": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "username": "aaa",
+          "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        {
+          "id": 1703511801053,
+          "service": "3131",
+          "username": "1231",
+          "password": "e92457c7aabb8631fda00d7ceaf7e520e92feb23b8d979cafcdb96ce92d964f1"
+        },
+        {
+          "id": 1703511891903,
+          "service": "14",
+          "username": "51515",
+          "password": "1a2e9ade749552d038fa308b06dba7e8cabb98fc7c12e236ed990fd1fb16afeb"
+        },
+        {
+          "id": 1703511897693,
+          "service": "123213",
+          "username": "123132",
+          "password": "e13838623f1f1ea5c092ba31b09a5d66053c7da759510ce49932428b7b8be157"
+        }
+      ]
+    }
+  ]
+}
